@@ -1,12 +1,11 @@
-package com.springboot.study.datastruct;
+package com.mao.datastruct;
 
-
-import com.springboot.study.datastruct.list.DoubleNode;
-import com.springboot.study.datastruct.list.MyLinkedListUtil;
-import com.springboot.study.datastruct.list.Node;
-import com.springboot.study.datastruct.stack.ArrayStack;
-import com.springboot.study.datastruct.stack.ListStack;
-import org.testng.annotations.Test;
+import com.mao.datastruct.list.DoubleNode;
+import com.mao.datastruct.list.MyLinkedListUtil;
+import com.mao.datastruct.list.Node;
+import com.mao.datastruct.stack.ArrayStack;
+import com.mao.datastruct.stack.ListStack;
+import org.junit.Test;
 
 /**
  * @author MaoYongjie

@@ -1,6 +1,7 @@
-package com.springboot.study.datastruct.stack;
+package com.mao.datastruct.stack;
 
-import com.mao.clazz.list.DoubleNode;
+
+import com.mao.datastruct.list.DoubleNode;
 
 /**
  * @author MaoYongjie

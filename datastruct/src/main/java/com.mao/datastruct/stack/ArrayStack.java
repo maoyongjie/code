@@ -1,4 +1,4 @@
-package com.springboot.study.datastruct.stack;
+package com.mao.datastruct.stack;
 
 /**
  * @author MaoYongjie

@@ -1,4 +1,4 @@
-package com.springboot.study.datastruct.queue;
+package com.mao.datastruct.queue;
 
 /**
  * @author MaoYongjie

@@ -1,4 +1,4 @@
-package com.springboot.study.datastruct.list;
+package com.mao.datastruct.list;
 
 /**
  * @author MaoYongjie
