@@ -5,15 +5,15 @@ package com.mao.datastruct.list;
  * @date 2022/1/29 9:42
  * @Description:
  */
-public class MyLinkedListUtil {
+public class MyLinkedListUtil<T> {
 
-    public static void revert(Node p){
-        Node pre = p.nextNode;
+    public void revert(Node<T> p){
+        Node<T> pre = p.nextNode;
         if(pre != null){
-            Node node = pre.nextNode;
+            Node<T> node = pre.nextNode;
             pre.nextNode = null;
             while (node!=null){
-                Node next = node.nextNode;
+                Node<T> next = node.nextNode;
                 node.nextNode = pre;
                 pre = node;
                 node = next;

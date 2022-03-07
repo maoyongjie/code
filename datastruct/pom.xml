@@ -6,7 +6,7 @@
         <artifactId>study</artifactId>
         <groupId>com.springboot</groupId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath>../study/pom.xml</relativePath>
+        <relativePath>../study/pom.xml</relativePath> <!--表示pom.xml默认从 父级仓库中取用-->
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
